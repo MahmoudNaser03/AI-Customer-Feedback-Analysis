@@ -1,0 +1,106 @@
+Message,Sentiment,Intent
+I'm very unhappy with the recent service. I need to talk to someone or I will cancel my account.,Positive,Feedback
+Can someone explain the billing on my last invoice?,Neutral,Request Info
+I want to cancel my subscription immediately.,Negative,Cancel Account
+Why is the app crashing all the time?,Negative,Complaint
+Thank you for the quick response!,Positive,Feedback
+How do I reset my password?,Neutral,Request Info
+Terrible experience. I’m switching to another provider.,Negative,Cancel Account
+"Just curious, do you offer student discounts?",Neutral,Request Info
+I appreciate the improvements in the latest update.,Positive,Feedback
+My package hasn’t arrived yet and it's overdue.,Negative,Complaint
+Is it possible to upgrade my plan?,Neutral,Request Info
+Very disappointed with your customer service.,Negative,Complaint
+The chat support was super helpful!,Positive,Feedback
+What are the available payment methods?,Neutral,Request Info
+I keep getting error code 502.,Negative,Complaint
+Love the new features you added!,Positive,Feedback
+I need help accessing my account.,Neutral,Request Info
+Your agent was very rude on the phone.,Negative,Complaint
+Are there any referral rewards?,Neutral,Request Info
+The service has been down for 2 days!,Negative,Complaint
+Thank you for resolving my issue quickly.,Positive,Feedback
+I’m thinking of switching to a yearly plan.,Neutral,Request Info
+This is my third complaint this month!,Negative,Complaint
+Can you explain how the premium plan works?,Neutral,Request Info
+Please cancel my membership right now.,Negative,Cancel Account
+Best customer service ever!,Positive,Feedback
+There was a double charge on my credit card.,Negative,Complaint
+Kudos to your support team!,Positive,Feedback
+What are your working hours?,Neutral,Request Info
+I want to delete my account permanently.,Negative,Cancel Account
+I had a great experience today.,Positive,Feedback
+Can I talk to a human representative?,Neutral,Request Info
+Why was I charged more this month?,Negative,Complaint
+Thanks for the follow-up!,Positive,Feedback
+How do I pause my subscription?,Neutral,Request Info
+Your prices are too high compared to competitors.,Negative,Complaint
+You guys are the best!,Positive,Feedback
+Can I get a receipt for my last payment?,Neutral,Request Info
+The app won’t open on my phone.,Negative,Complaint
+Impressed with your new update!,Positive,Feedback
+I need assistance with changing my email.,Neutral,Request Info
+Service is too slow lately.,Negative,Complaint
+Just wanted to say thanks!,Positive,Feedback
+Can I switch to a different package?,Neutral,Request Info
+I’m unsatisfied with the recent changes.,Negative,Complaint
+Keep up the great work!,Positive,Feedback
+Do you have a family plan?,Neutral,Request Info
+Why did you remove that feature?,Negative,Complaint
+The agent was so kind and helpful.,Positive,Feedback
+How can I reactivate my old account?,Neutral,Request Info
+You’ve lost a loyal customer.,Negative,Cancel Account
+I'm very happy with your platform.,Positive,Feedback
+Still waiting for a response from support.,Negative,Complaint
+Is there a trial version of the app?,Neutral,Request Info
+I want a full refund for this month.,Negative,Complaint
+Great design on your new website!,Positive,Feedback
+How do I change my billing cycle?,Neutral,Request Info
+The experience was frustrating.,Negative,Complaint
+Where can I download my invoices?,Neutral,Request Info
+Please help me with login issues.,Neutral,Request Info
+I’m extremely satisfied with the results.,Positive,Feedback
+You need to improve your FAQ section.,Negative,Complaint
+Is there a support number I can call?,Neutral,Request Info
+Please process my cancellation request.,Negative,Cancel Account
+Your app saved me so much time!,Positive,Feedback
+I lost all my data after the update.,Negative,Complaint
+Can I move my data to a new account?,Neutral,Request Info
+Fantastic support from your team!,Positive,Feedback
+The delay in response is unacceptable.,Negative,Complaint
+What does the premium subscription include?,Neutral,Request Info
+Please remove my credit card from your system.,Negative,Cancel Account
+Thanks for the extra storage space!,Positive,Feedback
+How do I switch from monthly to annual billing?,Neutral,Request Info
+I’m not getting verification emails.,Negative,Complaint
+Your service is a lifesaver!,Positive,Feedback
+Why does the system keep logging me out?,Negative,Complaint
+I'm enjoying the new dashboard layout.,Positive,Feedback
+My issue was ignored completely.,Negative,Complaint
+Can you send me my login credentials?,Neutral,Request Info
+You’ve made huge improvements this year!,Positive,Feedback
+I feel cheated by your refund policy.,Negative,Complaint
+How do I contact technical support?,Neutral,Request Info
+Thank you for adding dark mode!,Positive,Feedback
+I’ve already submitted two tickets with no reply.,Negative,Complaint
+Can I get a discount on my next bill?,Neutral,Request Info
+You should improve your mobile app.,Negative,Complaint
+Thanks for fixing the bug so quickly.,Positive,Feedback
+I lost access after upgrading my plan.,Negative,Complaint
+Do you have a chatbot for support?,Neutral,Request Info
+Very intuitive user interface!,Positive,Feedback
+I’m tired of the recurring problems.,Negative,Complaint
+Can I restore my deleted files?,Neutral,Request Info
+Loved the customer webinar!,Positive,Feedback
+I need to talk to someone right away.,Neutral,Request Info
+Excellent onboarding process!,Positive,Feedback
+The help docs are outdated.,Negative,Complaint
+Is there an option to customize features?,Neutral,Request Info
+It’s been a pleasure using your product.,Positive,Feedback
+I'm stuck in the setup process.,Negative,Complaint
+You guys rock!,Positive,Feedback
+I’m facing a serious issue with billing.,Negative,Complaint
+Where can I submit feedback?,Neutral,Request Info
+I really enjoyed the trial period.,Positive,Feedback
+Nothing works since the last update.,Negative,Complaint
+I want to upgrade to the pro version.,Neutral,Request Info
