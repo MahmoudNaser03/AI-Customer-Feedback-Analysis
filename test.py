@@ -38,7 +38,7 @@ st.markdown("<h4 style='color:#ff9800;'>Let us help you understand your customer
 message = st.text_input("✍️ Enter your message :")
 
 client = OpenAI(
-    api_key="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")
+    api_key="API_KEY")
 
 
 def classify_message(message):
